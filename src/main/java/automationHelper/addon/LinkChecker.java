@@ -33,10 +33,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Reporter;
 
-//import com.google.common.base.Function;
-//import com.google.common.base.Predicate;
-
-import automationHelper.sa.StringManipulation;
+import automationHelper.seleniumappium.StringManipulation;
 
 public class LinkChecker 
 {

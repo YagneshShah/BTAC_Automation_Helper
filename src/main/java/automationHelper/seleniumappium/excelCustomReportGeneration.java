@@ -5,7 +5,7 @@
  * Contact: yash.shah.g@gmail.com / yagnesh23.wordpress.com 
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import java.io.File;
 import java.util.regex.Matcher;
@@ -15,8 +15,8 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import automationHelper.sa.CurrencyDateTime;
-import automationHelper.sa.StringManipulation;
+import automationHelper.seleniumappium.CurrencyDateTime;
+import automationHelper.seleniumappium.StringManipulation;
 import jxl.Workbook;
 import jxl.write.NumberFormat;
 import jxl.write.WritableCellFormat;

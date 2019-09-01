@@ -45,7 +45,7 @@ import com.fasterxml.jackson.databind.introspect.VisibilityChecker;
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 
-import automationHelper.sa.FilesAndFolders;
+import automationHelper.seleniumappium.FilesAndFolders;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;

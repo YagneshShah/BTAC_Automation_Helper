@@ -20,7 +20,7 @@ import javax.crypto.NoSuchPaddingException;
 
 import org.testng.annotations.Test;
 
-import automationHelper.sa.MathOperations;
+import automationHelper.seleniumappium.MathOperations;
 
 public class MathOperationsTests
 {	

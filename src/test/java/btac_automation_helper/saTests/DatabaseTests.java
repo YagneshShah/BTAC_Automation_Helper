@@ -9,7 +9,7 @@
 
 package btac_automation_helper.saTests;
 
-import automationHelper.sa.Database;
+import automationHelper.seleniumappium.Database;
 
 public class DatabaseTests
 {	

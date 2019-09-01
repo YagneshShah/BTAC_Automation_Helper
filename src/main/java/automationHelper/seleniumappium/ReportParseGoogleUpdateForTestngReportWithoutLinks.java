@@ -14,7 +14,7 @@
  * 		c. Google login via oAuth2.0 since old version is deprecated
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import java.io.File;
 import java.io.IOException;

@@ -6,11 +6,11 @@
  * Contact: yash.shah.g@gmail.com / yagnesh23.wordpress.com 
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import org.openqa.selenium.WebDriver;
 
-import automationHelper.sa.L;
+import automationHelper.seleniumappium.L;
 
 /**
  * The Class MathOperations.

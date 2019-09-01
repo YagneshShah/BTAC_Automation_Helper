@@ -7,8 +7,8 @@ import java.util.List;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import automationHelper.sa.FilesAndFolders;
-import automationHelper.sa.excelCustomReportGeneration;
+import automationHelper.seleniumappium.FilesAndFolders;
+import automationHelper.seleniumappium.excelCustomReportGeneration;
 import twitter4j.FilterQuery;
 import twitter4j.GeoLocation;
 import twitter4j.HashtagEntity;

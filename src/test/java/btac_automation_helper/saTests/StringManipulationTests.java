@@ -15,9 +15,9 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.DataStructure;
-import automationHelper.sa.StringManipulation;
 import automationHelper.addon.LinkCheckerReporting;
+import automationHelper.seleniumappium.DataStructure;
+import automationHelper.seleniumappium.StringManipulation;
 
 public class StringManipulationTests
 {	

@@ -13,7 +13,7 @@ import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import automationHelper.sa.DataStructure;
+import automationHelper.seleniumappium.DataStructure;
 
 // TODO: Auto-generated Javadoc
 /**

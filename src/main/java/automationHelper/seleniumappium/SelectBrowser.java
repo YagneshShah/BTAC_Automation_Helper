@@ -6,7 +6,7 @@
  * Contact: yash.shah.g@gmail.com / yagnesh23.wordpress.com 
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import java.io.File;
 import java.util.HashMap;

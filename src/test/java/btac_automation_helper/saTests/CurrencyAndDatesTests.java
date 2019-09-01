@@ -20,8 +20,8 @@ import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.CurrencyDateTime;
-import automationHelper.sa.FilesAndFolders;
+import automationHelper.seleniumappium.CurrencyDateTime;
+import automationHelper.seleniumappium.FilesAndFolders;
 
 // TODO: Auto-generated Javadoc
 /**

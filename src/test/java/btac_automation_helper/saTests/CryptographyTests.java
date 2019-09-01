@@ -21,8 +21,8 @@ import javax.crypto.NoSuchPaddingException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.Cry;
-import automationHelper.sa.pri.LicOld;
+import automationHelper.seleniumappium.Cry;
+import automationHelper.seleniumappium.pri.LicOld;
 
 public class CryptographyTests
 {	

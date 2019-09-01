@@ -14,8 +14,8 @@ import java.io.IOException;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.DataStructure;
-import automationHelper.sa.RandomDataGenerator;
+import automationHelper.seleniumappium.DataStructure;
+import automationHelper.seleniumappium.RandomDataGenerator;
 
 public class RandomDataGeneratorTests
 {		

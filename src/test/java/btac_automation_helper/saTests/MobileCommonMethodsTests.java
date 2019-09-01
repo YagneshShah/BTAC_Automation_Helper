@@ -21,7 +21,7 @@ import javax.crypto.NoSuchPaddingException;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.MathOperations;
+import automationHelper.seleniumappium.MathOperations;
 
 public class MobileCommonMethodsTests
 {	

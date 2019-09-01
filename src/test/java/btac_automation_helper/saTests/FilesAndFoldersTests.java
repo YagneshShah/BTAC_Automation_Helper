@@ -36,8 +36,8 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 import org.testng.reporters.Files;
 
-import automationHelper.sa.CurrencyDateTime;
-import automationHelper.sa.FilesAndFolders;
+import automationHelper.seleniumappium.CurrencyDateTime;
+import automationHelper.seleniumappium.FilesAndFolders;
 
 // TODO: Auto-generated Javadoc
 /**

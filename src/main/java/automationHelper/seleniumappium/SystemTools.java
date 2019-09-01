@@ -6,7 +6,7 @@
  * Contact: yash.shah.g@gmail.com / yagnesh23.wordpress.com 
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import org.openqa.selenium.WebDriver;
 //import jxl.read.biff.BiffException;

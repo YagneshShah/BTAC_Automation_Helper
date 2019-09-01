@@ -7,8 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import automationHelper.sa.CurrencyDateTime;
-import automationHelper.sa.StringManipulation;
+import automationHelper.seleniumappium.CurrencyDateTime;
+import automationHelper.seleniumappium.StringManipulation;
 import jxl.Workbook;
 import jxl.write.NumberFormat;
 import jxl.write.WritableCellFormat;

@@ -6,7 +6,7 @@
  * Contact: yash.shah.g@gmail.com / yagnesh23.wordpress.com 
  */
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;

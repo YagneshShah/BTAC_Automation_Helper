@@ -9,7 +9,7 @@ import java.util.Map;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import automationHelper.sa.FilesAndFolders;
+import automationHelper.seleniumappium.FilesAndFolders;
 import io.restassured.RestAssured;
 import io.restassured.config.RestAssuredConfig;
 import io.restassured.config.XmlConfig;

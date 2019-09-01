@@ -8,7 +8,7 @@
 
 /* AES alogrithm using password key */ 
 
-package automationHelper.sa;
+package automationHelper.seleniumappium;
 
 import java.io.IOException;
 import java.security.InvalidAlgorithmParameterException;

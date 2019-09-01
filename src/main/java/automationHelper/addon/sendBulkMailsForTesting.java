@@ -9,10 +9,10 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import automationHelper.sa.CurrencyDateTime;
-import automationHelper.sa.FilesAndFolders;
-import automationHelper.sa.SmsEmailNotification;
-import automationHelper.sa.StringManipulation;
+import automationHelper.seleniumappium.CurrencyDateTime;
+import automationHelper.seleniumappium.FilesAndFolders;
+import automationHelper.seleniumappium.SmsEmailNotification;
+import automationHelper.seleniumappium.StringManipulation;
 
 public class sendBulkMailsForTesting {
 
